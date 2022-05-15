@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-white{
+    display: flex;
+}
+.white{
+    height: 80px;
+    width: 80px;
+    background-color: #fff;
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+}
+.black{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(9, 9, 9);
+    justify-content: center;
+    text-align: center;
+}
+.main-black{
+    display: flex;
+margin-left: 100px;
+
+}
+.main-white{
+    margin-left: 100px;
+}
+.black_1{
+    color: white;
+    font-size: 50px;
+}
+.white_1{
+    font-size: 50px;
+}
